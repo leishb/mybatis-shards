@@ -26,6 +26,8 @@ import org.apache.ibatis.jdbc.ScriptRunner;
  * 
  * @version 2012-8-7
  * @author Feng Kuok
+ *
+ * zhushi
  */
 public abstract class BaseTest {
 
